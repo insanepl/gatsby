@@ -17,7 +17,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-typography": "^0.16.13",
-    "typography": "^0.15.8",
+    "typography": "^0.16.19",
     "typography-theme-bootstrap": "^0.15.10"
   },
   "keywords": [
