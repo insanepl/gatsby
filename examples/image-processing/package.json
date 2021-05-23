@@ -18,7 +18,7 @@
     "react-dom": "^16.4.0",
     "react-typography": "^0.16.13",
     "typography": "^0.15.8",
-    "typography-theme-bootstrap": "^0.15.10"
+    "typography-theme-bootstrap": "^0.16.19"
   },
   "keywords": [
     "gatsby",
